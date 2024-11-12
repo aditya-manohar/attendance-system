@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendance Status</title>
+</head>
+
+<body>
+    <h1>Attendance Marked</h1>
+    <p>The following students have been recognized and marked as present:</p>
+    <ul>
+        {% for student in recognized_students %}
+        <li>{{ student }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Processed Image</h2>
+    <img src="{{ processed_image_url }}" alt="Processed Image" style="max-width: 80%;" />
+
+    <br><br>
+    <a href="{{ excel_url }}" download="attendance.xlsx">Download Attendance Excel</a>
+
+    <br><br>
+    <a href="{{ url_for('index') }}">Back to Upload</a>
+</body>
+
+</html>

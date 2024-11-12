@@ -1,0 +1,91 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:36:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:36:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:36:17] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:43:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:43:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:43:19] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:44:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:44:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:44:06] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:48:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:48:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:48:47] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:53:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:53:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:56:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:56:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:56:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:56:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:56:42] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 281-137-041
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 15:57:55] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 16:05:39] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 16:05:40] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+ERROR:root:Error: Unsupported image type, must be 8bit gray or RGB image.
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 16:05:41] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 16:11:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 16:11:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 808-792-846
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 17:21:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 17:21:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 17:22:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 17:22:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error: No module named 'openpyxl'
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2024 17:22:45] "[35m[1mPOST /attendance HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 808-792-846
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 808-792-846
+INFO:werkzeug: * Detected change in 'C:\\Users\\Aditya Manohar\\Desktop\\attendance\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image for Attendance</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Classroom Attendance System</h1>
+            <p>Upload a photo of the classroom to mark attendance for your students</p>
+        </div>
+
+        <div class="form-section">
+            <form action="/upload" method="POST" enctype="multipart/form-data">
+                <input type="file" name="file" accept="image/*" required>
+                <button type="submit" class="upload-btn">Upload Image</button>
+            </form>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 Attendance System. All rights reserved.</p>
+        </div>
+    </div>
+
+</body>
+
+</html>
